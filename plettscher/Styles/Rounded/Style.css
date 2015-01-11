@@ -1,0 +1,38 @@
+/* CSS-Definitionsdatei, die SiteStyle -Stylesheets enthält */
+BODY { font-family: 'Lucida Calligraphy', cursive; background-image: url("Images/background.gif");}
+ 
+.nof_RoundedBanners1-Banner1 {
+font-family:Lucida Calligraphy; font-size:26; font-weight:700; font-style:normal; color:#ffffff; 
+}
+
+.nof_RoundedNavbar2-Regular {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#404040; 
+}
+
+.nof_RoundedNavbar4-Rollover {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#336699; 
+}
+
+.nof_RoundedNavbar6-Highlighted {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_RoundedNavbar8-HighlightedRollover {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#99ccff; 
+}
+
+.nof_RoundedNavbar3-Regular {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_RoundedNavbar5-Rollover {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#336699; 
+}
+
+.nof_RoundedNavbar7-Highlighted {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#cccccc; 
+}
+
+.nof_RoundedNavbar9-HighlightedRollover {
+font-family:Lucida Calligraphy; font-size:10; font-weight:400; font-style:normal; color:#ffcc00; 
+}

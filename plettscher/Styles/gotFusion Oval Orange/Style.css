@@ -1,0 +1,53 @@
+/* CSS definition file containing sitestyle stylesheets */
+BODY { font-family: Garamond,serif; font-size: 12px; background-color: rgb(255,255,255); background-image: url("Images/FBFree1-BG.gif");}
+ A:active { font-size: 14px; color: rgb(255,0,0); font-weight: normal; font-style: normal;}
+ A:link { font-size: 12px; color: rgb(0,51,204); font-weight: normal; font-style: normal;}
+ UL { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 12px; font-weight: normal; font-style: normal;}
+ A:visited { font-size: 14px; color: rgb(153,0,153);}
+ .TextObject { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 12px;}
+ H1 { font-size: 48px; color: rgb(0,51,204); font-weight: bold;}
+ H2 { font-size: 36px; color: rgb(0,51,204); font-weight: bold;}
+ P { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 12px;}
+ H3 { font-size: 20px; color: rgb(0,51,204); font-weight: bold;}
+ OL { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 12px; font-weight: normal; font-style: normal;}
+ H4 { font-size: 12px; color: rgb(0,51,204); font-weight: bold;}
+ .TextNavBar { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: 12px;}
+ H5 { font-size: 14px; color: rgb(0,51,204); font-weight: bold;}
+ H6 { font-size: 14px; color: rgb(0,28,102); font-weight: bold;}
+ A:hover { font-size: 14px; color: rgb(255,0,0); font-weight: normal; font-style: normal;}
+ 
+.nof_gotfusionOvalOrangeBanners1-Banner1 {
+font-family:Verdana; font-size:18; font-weight:700; font-style:normal; color:#ffffff; 
+}
+
+.nof_gotfusionOvalOrangeNavbar2-Regular {
+font-family:Verdana; font-size:8; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_gotfusionOvalOrangeNavbar4-Rollover {
+font-family:Verdana; font-size:8; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_gotfusionOvalOrangeNavbar6-Highlighted {
+font-family:Verdana; font-size:8; font-weight:700; font-style:normal; color:#ffffff; 
+}
+
+.nof_gotfusionOvalOrangeNavbar8-HighlightedRollover {
+font-family:Verdana; font-size:8; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_gotfusionOvalOrangeNavbar3-Regular {
+font-family:Verdana; font-size:8; font-weight:400; font-style:normal; color:#000099; 
+}
+
+.nof_gotfusionOvalOrangeNavbar5-Rollover {
+font-family:Verdana; font-size:8; font-weight:400; font-style:normal; color:#ff9900; 
+}
+
+.nof_gotfusionOvalOrangeNavbar7-Highlighted {
+font-family:Verdana; font-size:8; font-weight:700; font-style:normal; color:#ff9900; 
+}
+
+.nof_gotfusionOvalOrangeNavbar9-HighlightedRollover {
+font-family:Verdana; font-size:8; font-weight:700; font-style:normal; color:#000099; 
+}

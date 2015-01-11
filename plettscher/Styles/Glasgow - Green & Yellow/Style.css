@@ -1,0 +1,43 @@
+/* CSS definition file containing sitestyle stylesheets */
+BODY { font-family: Arial,Helvetica,Geneva,Sans-serif,sans-serif; background-color: rgb(255,255,255); background-image: url("Images/background.gif");}
+ A:active { color: rgb(255,0,0);}
+ A:link { color: rgb(0,51,204);}
+ A:visited { color: rgb(153,0,153);}
+ .TextNavBar { font-size: xx-small;}
+ A:hover { color: rgb(255,0,0);}
+ 
+.nof_GlasgowGreenYellowBanners1-Banner1 {
+font-family:Verdana; font-size:18; font-weight:700; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar2-Regular {
+font-family:Trebuchet MS; font-size:8; font-weight:400; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar4-Rollover {
+font-family:Trebuchet MS; font-size:8; font-weight:700; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar6-Highlighted {
+font-family:Trebuchet MS; font-size:8; font-weight:700; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar8-HighlightedRollover {
+font-family:Trebuchet MS; font-size:8; font-weight:700; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar3-Regular {
+font-family:Trebuchet MS; font-size:8; font-weight:400; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar5-Rollover {
+font-family:Trebuchet MS; font-size:8; font-weight:700; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar7-Highlighted {
+font-family:Trebuchet MS; font-size:8; font-weight:700; font-style:normal; color:#003300; 
+}
+
+.nof_GlasgowGreenYellowNavbar9-HighlightedRollover {
+font-family:Trebuchet MS; font-size:8; font-weight:700; font-style:normal; color:#003300; 
+}

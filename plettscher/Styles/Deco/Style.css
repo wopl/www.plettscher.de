@@ -1,0 +1,40 @@
+/* CSS definition file containing sitestyle stylesheets */
+BODY { color: rgb(192,192,192); background-image: url("Images/Background.gif");}
+ A:link { color: rgb(205,51,1);}
+ A:visited { color: rgb(153,0,0);}
+ 
+.nof_DecoBanners1-Banner1 {
+font-family:Arial; font-size:18; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_DecoNavbar2-Regular {
+font-family:Arial; font-size:10; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_DecoNavbar4-Rollover {
+font-family:MS Sans Serif; font-size:10; font-weight:400; font-style:normal; color:#000000; 
+}
+
+.nof_DecoNavbar6-Highlighted {
+font-family:Arial; font-size:10; font-weight:400; font-style:normal; color:#bf0000; 
+}
+
+.nof_DecoNavbar8-HighlightedRollover {
+font-family:MS Sans Serif; font-size:10; font-weight:400; font-style:normal; color:#000000; 
+}
+
+.nof_DecoNavbar3-Regular {
+font-family:Arial; font-size:10; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_DecoNavbar5-Rollover {
+font-family:MS Sans Serif; font-size:10; font-weight:400; font-style:normal; color:#ffffff; 
+}
+
+.nof_DecoNavbar7-Highlighted {
+font-family:Arial; font-size:10; font-weight:400; font-style:normal; color:#bf0000; 
+}
+
+.nof_DecoNavbar9-HighlightedRollover {
+font-family:MS Sans Serif; font-size:10; font-weight:400; font-style:normal; color:#bf0000; 
+}
